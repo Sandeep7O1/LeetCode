@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sandeep7O1/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sandeep7O1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Sandeep7O1/LeetCode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sandeep7O1/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
